@@ -18,3 +18,4 @@ Turtle
 Crab
 Lizard
 Penguin
+Starfish
