@@ -20,3 +20,4 @@ Lizard
 Penguin
 Starfish
 Yellow
+Red
