@@ -19,3 +19,4 @@ Crab
 Lizard
 Penguin
 Starfish
+Yellow
